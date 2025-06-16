@@ -209,5 +209,5 @@ This project is intended for educational purposes and to showcase SQL proficienc
 ## 📫 Contact
 
 For feedback or suggestions:  
-📧 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/yourusername)
+📧 rishabh.kapoor.ug22@nsut.ac.in 
+https://github.com/rishabh2859
