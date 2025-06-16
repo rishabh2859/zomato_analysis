@@ -1,0 +1,39 @@
+order_id,customer_id,rest_id,order_item,order_date,order_time,order_status,total_amount
+1,11,54,Pasta Alfredo,18/08/23,23:59:58,Completed,314
+2,5,15,Chicken Biryani,03/08/23,23:59:48,Completed,317
+3,5,8,Masala Dosa,08/08/23,23:59:48,Completed,200
+4,17,58,Chicken Shawarma,06/08/23,23:59:42,Completed,259
+5,2,22,Samosa,28/11/23,23:59:40,Completed,191
+6,12,53,Burger,24/08/23,23:59:36,Completed,211
+7,15,27,Mutton Rogan,06/03/23,23:59:32,Completed,360
+8,11,22,Paneer Butter Masala,11/09/23,23:59:30,Completed,317
+9,1,29,Pasta Alfredo,02/10/23,23:58:52,Completed,280
+10,7,5,Paneer Lababdar,31/12/23,23:58:50,Completed,326
+11,5,28,Masala Dosa,10/05/23,23:58:17,Completed,191
+12,2,42,Mutton Biryani,04/08/23,23:58:12,Completed,529
+13,1,14,Egg Curry,06/05/23,23:58:05,Completed,304
+14,1,45,Prawn Masala,28/06/23,23:57:58,Completed,461
+15,17,46,Chole Bhature,20/06/23,23:57:45,Completed,322
+16,19,15,Chicken Shawarma,30/10/23,23:57:50,Completed,309
+17,2,37,Prawn Masala,24/10/23,23:57:43,Completed,508
+18,6,16,Masala Dosa,28/11/23,23:57:32,Completed,207
+19,5,20,Mutton Biryani,03/08/23,23:57:30,Completed,288
+20,5,56,Masala Dosa,07/07/23,23:57:27,Completed,206
+21,6,5,Paneer Lababdar,07/07/23,23:57:23,Completed,331
+22,6,25,Mutton Biryani,03/03/23,23:57:21,Completed,546
+23,7,29,Prawn Masala,02/11/23,23:56:56,Completed,210
+24,1,5,Samosa,06/08/23,23:56:50,Completed,159
+25,5,4,Prawn Masala,18/04/23,23:56:49,Completed,479
+26,1,44,Dal Makhani,24/10/23,23:56:40,Completed,306
+27,1,19,Chole Bhature,20/10/23,23:56:39,Completed,361
+28,2,32,Chicken Shawarma,30/09/23,23:56:35,Completed,308
+29,2,25,Paneer Butter Masala,12/11/23,23:56:30,Completed,233
+30,10,1,Samosa,28/11/23,23:56:27,Completed,191
+31,18,53,Mutton Biryani,03/08/23,23:56:11,Completed,702
+32,10,39,Paneer Butter Masala,06/05/23,23:56:07,Completed,313
+33,2,11,Chicken Tikka,30/03/23,23:56:04,Completed,311
+34,10,40,Hyderabadi Biryani,21/03/23,23:56:01,Completed,388
+35,5,8,Fish Curry,01/03/23,23:55:56,Completed,228
+36,10,41,Paneer Tikka,13/07/23,23:55:49,Completed,570
+37,2,4,Butter Chicken,18/10/23,23:55:43,Completed,548
+38,1,42,Vegetable Fried Rice,04/08/23,23:55:36,Completed,321

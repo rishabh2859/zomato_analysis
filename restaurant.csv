@@ -1,0 +1,55 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,The Bombay Canteen,Mumbai,10:00 AM - 11:00 PM
+2,Leopold Cafe,Mumbai,9:00 AM - 12:00 AM
+3,Bademiya,Mumbai,6:00 PM - 3:00 AM
+4,Ziya,Mumbai,12:00 PM - 11:00 PM
+5,Gajalee,Mumbai,11:00 AM - 11:00 PM
+6,Masala Library,Mumbai,12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM
+7,Mahesh Lunch Home,Mumbai,11:30 AM - 11:45 PM
+8,Yavatcha,Mumbai,12:00 PM - 12:00 AM
+9,Britannia & Co.,Mumbai,12:00 PM - 4:00 PM
+10,Indigo,Mumbai,12:00 PM - 3:30 PM, 7:00 PM - 11:45 PM
+11,Indian Accent,Delhi,12:00 PM - 2:30 PM, 7:00 PM - 10:30 PM
+12,Karim's,Delhi,9:00 AM - 12:00 AM
+13,Bukhara,Delhi,12:30 PM - 2:45 PM, 7:00 PM - 11:45 PM
+14,Moti Mahal,Delhi,12:00 PM - 11:30 PM
+15,SodaBottleOpenerWala,Delhi,11:00 AM - 11:30 PM
+16,Gulati,Delhi,11:30 AM - 11:30 PM
+17,Saravan Bhavan,Delhi,8:00 AM - 10:00 PM
+18,The Big Chili Cafe,Delhi,11:00 AM - 11:00 PM
+19,Farzi Cafe,Delhi,12:00 PM - 11:45 PM
+20,Lodi - The Garden Restaurant,Delhi,12:00 PM - 12:00 AM
+21,Perch Wine & Coffee Bar,Delhi,11:00 AM - 11:00 PM
+22,Diggin,Delhi,11:00 AM - 11:00 PM
+23,Cafe Delhi Heights,Delhi,11:00 AM - 12:00 AM
+24,Olive Bar & Kitchen,Delhi,12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM
+25,Imly,Delhi,11:00 AM - 11:00 PM
+26,Sagar Ratna,Delhi,7:00 AM - 11:00 PM
+27,Punjabi By Nature,Delhi,12:00 PM - 12:00 AM
+28,MTR,Bengaluru,6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM
+29,Teit,Bengaluru,12:00 PM - 11:30 PM
+30,Koshy's,Bengaluru,9:00 AM - 11:00 PM
+31,Vidyarthi Bhawan,Bengaluru,8:30 AM - 11:30 AM, 2:30 PM - 8:00 PM
+32,The Only Place,Bengaluru,12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM
+33,Truffles,Bengaluru,11:00 AM - 11:00 PM
+34,Empire Restaurant,Bengaluru,11:00 AM - 11:00 PM
+35,Corner House,Bengaluru,11:00 AM - 11:30 PM
+36,The 13th Floor,Bengaluru,12:00 PM - 11:00 PM
+37,The Fatty Bao,Bengaluru,12:00 PM - 11:00 PM
+38,Windmills Craftworks,Bengaluru,12:00 PM - 11:30 PM
+39,The Oberoi,Bengaluru,12:00 PM - 11:00 PM
+40,Ebony,Bengaluru,12:30 PM - 3:30 PM, 7:00 PM - 11:00 PM
+41,Meghana Foods,Bengaluru,12:00 PM - 11:00 PM
+42,Brahmins's Coffee Bar,Bengaluru,6:00 AM - 12:00 PM
+43,Nagarjuna,Bengaluru,12:00 PM - 11:00 PM
+44,The Hole in the Wall Cafe,Bengaluru,6:00 AM - 3:00 PM
+45,Toit Brewpub,Bengaluru,10:00 AM - 11:00 PM
+46,Fava,Bengaluru,12:00 PM - 12:00 AM
+47,Toit Brewery,Bengaluru,12:00 PM - 11:00 PM
+48,Paradise Biryani,Hyderabad,11:00 AM - 11:00 PM
+49,Bawarchi,Hyderabad,11:00 AM - 11:00 PM
+50,Shah Ghouse,Hyderabad,6:00 AM - 12:00 AM
+51,Ohri's Jiva Imperia,Hyderabad,12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM
+52,The Spicy Venue,Hyderabad,12:00 PM - 3:30 PM, 7:00 PM - 11:00 PM
+53,Cafe Bahar,Hyderabad,10:30 AM - 11:00 PM
+54,Almond House,Hyderabad,9:00 AM - 10:00 PM
