@@ -151,7 +151,7 @@ group by 1,2 order by 1;
 select avg(total_amount) as avg_value from orders;
 drop table if exists gold_or_silver;
 create table gold_or_silver as(
-select customer_id,sum(total_amount) as net_amount,sum(total_amount) as customer_revenue,count(customer_id) as customer_order_count ,case when sum(total_amount)>331.7105 then 'Gold' else 'Silver' end as category from orders
+select customer_id,sum(total_amount) as customer_revenue,count(customer_id) as customer_order_count ,case when sum(total_amount)>331.7105 then 'Gold' else 'Silver' end as category from orders
 group by 1);
 select category,sum(customer_order_count) as total_count,sum(customer_revenue) as total_sales from gold_or_silver
 group by 1;
