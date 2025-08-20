@@ -83,7 +83,7 @@ select c.customer_name,o.customer_id,count(o.customer_id),round(avg(total_amount
 join customers as c
 on c.customer_id=o.customer_id
 group by 1,2
-having count(o.customer_id)>5
+having count(o.customer_id)>3
 order by 1;
 #List the customers who have spent more than 1k in total on food orders
 select c.customer_name,o.customer_id,sum(total_amount) from orders as o
